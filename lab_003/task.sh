@@ -1,4 +1,3 @@
-
 mkdir -p ~/cat_002
 cd ~/cat_002
 echo "Current directory: $(pwd)"
